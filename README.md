@@ -1,15 +1,12 @@
 # Hi there, I'm Adrien Theophile! 👋
 
-### 👨‍💻 CS Student (BUT Informatique)
-
-Based in **Toulouse / Blagnac**, I am passionate about software architecture and clean code.
+Computer Science stduent. I am passionate about software architecture and clean code.
 
 ---
 
 ## 🎯 Current Goal
 
 > **Seeking a 14-week Internship (March - June 2026)**
-> 🚀 Ready to tackle technical challenges in **Full-Stack Development**.
 
 ---
 
@@ -22,8 +19,8 @@ Based in **Toulouse / Blagnac**, I am passionate about software architecture and
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=symfony,angular" /> and NoSQL (Neo4j)
-</a>
+  <img src="https://skillicons.dev/icons?i=symfony,angular" /> 
+</a> and NoSQL (Neo4j)
 
 ### Databases
 <a href="https://skillicons.dev">
