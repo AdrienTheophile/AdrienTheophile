@@ -1,52 +1,55 @@
-# Salut, c'est Adrien Theophile ! 👋
+# Hi there, I'm Adrien Theophile! 👋
 
-### 👨‍💻 Développeur Full-Stack | Étudiant en 3ème année de BUT Informatique
+### 👨‍💻 CS Student (BUT Informatique)
 
-Basé à **Toulouse / Blagnac**, je suis un passionné de code, d'architecture logicielle et de méthodes Agiles. Quand je ne suis pas en train de développer une app, vous me trouverez probablement au **dojo** ou à la **salle de musculation**.
-
----
-
-## 🎯 Objectif Actuel
-
-> **À la recherche d'un stage de 14 semaines (Mars - Juin 2026)** > 🚀 Prêt à relever des défis techniques en **Full-Stack**.
+Based in **Toulouse / Blagnac**, I am passionate about software architecture and clean code.
 
 ---
 
-## 🛠️ Ma Stack Technique
+## 🎯 Current Goal
 
-Voici les outils et langages que je maîtrise et utilise dans mes projets :
-
-| Catégorie | Technologies |
-| :--- | :--- |
-| **Front-End** | HTML5, CSS3, **JavaScript**, **Angular**, Twig |
-| **Back-End** | **PHP**, **Symfony**, Doctrine (ORM) |
-| **Software** | Java, Python, C, C++ |
-| **Data** | SQL, NoSQL |
-| **DevOps & Outils** | **Docker**, **Git**, Unix/Linux |
+> **Seeking a 14-week Internship (March - June 2026)**
+> 🚀 Ready to tackle technical challenges in **Full-Stack Development**.
 
 ---
 
-## 📂 Projets Récents
+## 🛠️ Tech Stack
 
-* **Application Symfony (MVC)** : Architecture MVC, gestion avancée des données avec Doctrine & Twig.
-* **SPA Angular** : Application Single Page complète, gestion de formulaires et UX moderne.
-* **Site Marchand PHP** : Développement natif en méthode Agile, du recueil des besoins à la livraison.
+### Languages
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-f5702d?style=for-the-badge&logo=doctrine&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-BBCD45?style=for-the-badge&logo=twig&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Recent Projects
 
-![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUsernameGitHub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsernameGitHub&layout=compact&theme=radical)
-
-*(N'oublie pas de remplacer "TonUsernameGitHub" par ton vrai pseudo dans les liens ci-dessus !)*
-
+* **Symfony Application (MVC)**: Designed a complete MVC architecture for administrative management using Doctrine & Twig.
+  
 ---
 
-## 📫 Me Contacter
 
-* **LinkedIn** : [linkedin.com/in/adrien-theophile](https://linkedin.com/in/adrien-theophile)
-* **Email** : [adrien.theophile05@gmail.com](mailto:adrien.theophile05@gmail.com)
 
----
-*Motivation, Rigueur et Esprit d'équipe.*
+## 📫 Let's Connect
+
+* **LinkedIn**: [linkedin.com/in/adrien-theophile](https://linkedin.com/in/adrien-theophile)
+* **Email**: [adrien.theophile05@gmail.com](mailto:adrien.theophile05@gmail.com)
