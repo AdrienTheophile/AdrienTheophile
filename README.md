@@ -22,18 +22,19 @@ Based in **Toulouse / Blagnac**, I am passionate about software architecture and
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=symfony,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=symfony,angular" /> and NoSQL (Neo4j)
 </a>
 
 ### Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,neo4j,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </a>
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </a>
+
 ---
 
 ## 📂 Recent Projects
@@ -43,8 +44,7 @@ Based in **Toulouse / Blagnac**, I am passionate about software architecture and
 ---
 
 
-
-## 📫 Let's Connect
+## 📫 Contact Me
 
 * **LinkedIn**: [linkedin.com/in/adrien-theophile](https://linkedin.com/in/adrien-theophile)
 * **Email**: [adrien.theophile05@gmail.com](mailto:adrien.theophile05@gmail.com)
