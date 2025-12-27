@@ -19,7 +19,7 @@ Computer Science stduent. I am passionate about software architecture and clean 
 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=symfony,angular" /> 
+  <img src="https://skillicons.dev/icons?i=symfony,angular, react" /> 
 </a> and NoSQL (Neo4j)
 
 ### Databases
@@ -33,14 +33,7 @@ Computer Science stduent. I am passionate about software architecture and clean 
 </a>
 
 ---
-
-## 📂 Recent Projects
-
-* **Symfony Application (MVC)**: Designed a complete MVC architecture for administrative management using Doctrine & Twig.
   
----
-
-
 ## 📫 Contact Me
 
 * **LinkedIn**: [linkedin.com/in/adrien-theophile](https://linkedin.com/in/adrien-theophile)
