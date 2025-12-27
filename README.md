@@ -20,12 +20,13 @@ Computer Science stduent. I am passionate about software architecture and clean 
 ### Frameworks & Libraries
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=symfony,angular,react" /> 
-</a> and NoSQL (Neo4j)
+</a> 
 
 ### Databases
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </a>
+and NoSQL (Neo4j)
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
