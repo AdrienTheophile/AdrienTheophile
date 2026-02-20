@@ -4,12 +4,6 @@ Computer Science stduent. I am passionate about software architecture and clean 
 
 ---
 
-## 🎯 Current Goal
-
-> **Seeking a 14-week Internship (March - June 2026)**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
